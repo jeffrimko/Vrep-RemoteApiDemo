@@ -19,3 +19,7 @@ To run this demo:
   . Once the scene has loaded, run `remote_demo.py`.
   . A simulation should start automatically and the robot will execute the line following logic.
   . The robot logic runs in an infinite loop. Stopping the simulation will cause `remote_demo.py` to exit.
+
+Here's the demo in action:
+
+image:remote_demo.gif["V-REP Remote API Demo", link="remote_demo.gif"]
