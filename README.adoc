@@ -23,3 +23,7 @@ To run this demo:
 Here's the demo in action:
 
 image:remote_demo.gif["V-REP Remote API Demo", link="remote_demo.gif"]
+
+It take a few minutes for the robot to follow the full path. Here's a sped up recording:
+
+image:remote_demo-fast.gif["V-REP Remote API Demo", link="remote_demo-fast.gif"]
